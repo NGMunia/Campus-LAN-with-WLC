@@ -1,2 +1,2 @@
 # Multicast
-This lab demonstrates Multicast routing using PIM and IGMP
+This lab demonstrates collapesed core LAN network with WLC and SDN controller
